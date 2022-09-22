@@ -32,3 +32,4 @@
 - NetMQ
 - Redis
 - Amazon SQS
+- ZeroMQ
